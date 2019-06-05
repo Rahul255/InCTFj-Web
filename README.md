@@ -1,1 +1,1 @@
-# shogil.github.io# InCTFj-Web
+InCTFj-Web
