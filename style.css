@@ -1473,7 +1473,16 @@ blog page css
   background: url(assets/img/Pioneer.jpg);
 }
 .blog-bg-12 {
-  background: url(assets/img/blog-blog-9.jpg);
+  background: url(assets/img/Mail.jpg);
+}
+.blog-bg-13 {
+  background: url(assets/img/Deccan1.jpg);
+}
+.blog-bg-14 {
+  background: url(assets/img/Hindu.jpg);
+}
+.blog-bg-15 {
+  background: url(assets/img/Trinity.jpg);
 }
 
 .single-blog-text a {
